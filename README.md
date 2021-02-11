@@ -9,6 +9,10 @@ SO THAT my account balance is accurate when I am traveling
 
 This simple application, working both online and offline, allows you to keep track of your budget! You can enter expenses and delete them as you wish. A simple graph is generated as you edit your expenses to give you a better idea of how you're spending your money. For easier access, you're also able to install it!
 
+You will be presented with this (on mobile): 
+
+![](./public/img/bTracker-scrnshot.PNG)  
+
 ## Installation
 Simply navigate to the website and check it out!
 
